@@ -5,7 +5,7 @@ Our visualization is to emphasize the huge damage of the pandemic as well as to 
 
 ## Motivation
 
-The visulization will give us an overview of the epidemic situation around the world by the end of 2021. From this data one can see the spread and huge impact of the pandemic. Thanks to that, we can limit going to areas with strong outbreaks and understand the danger of the disease, thereby joining hands to fight the disease.
+The visulization will give us an overview of the epidemic situation around the world by the end of 2021. From this data one can see the spread and huge impact of the pandemic. From that, we can limit going to areas with strong outbreaks and understand the danger of the disease, thereby joining hands to fight the disease.
 
 ## Objective
 
