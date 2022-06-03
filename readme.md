@@ -1,6 +1,6 @@
 # Shocking facts behind the COVID-19 data
 ## **Motivation**
-With the exponential growth of the pandemic, massive amount of research is coducting and many visualization techniques are applied to stop the deadly impact of COVID-19.
+You heard about many shocking news about the COVID-19 everyday on TV and social media everyday? You feel panic and depressive because of the non-stop increasing number of cases and deaths, and you have no clue about when everything back to normal for you to continue your big journey? Do not be hopeless, our visualization project will analyze the process and give more details clearly, where we are in the progress of COVID-19, and predict when it will stop.
 ## **Introduction of our project**
 
 Our project has 2 line charts, one is multiple line chart, and the other is single line chart with updating time in order to visualize and compare the total confirmed cases all over 200 countries in the world (from 8/3/2020 to yesterday).
