@@ -1,4 +1,4 @@
-# Shocking facts behind the COVID-19 data
+# Keep calm among shocking facts behind the COVID-19 data
 ## **Motivation**
 You heard about many shocking news about the COVID-19 everyday on TV and social media everyday? You feel panic and depressive because of the non-stop increasing number of cases and deaths, and you have no clue about when everything back to normal for you to continue your big journey? Do not be hopeless, our visualization project will analyze the process and give more details clearly, where we are in the progress of COVID-19, and predict when it will stop.
 ## **Introduction of our project**
