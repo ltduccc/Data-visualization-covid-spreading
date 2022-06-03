@@ -1,4 +1,4 @@
-# Covid-19
+# Shocking facts behind the COVID-19 data
 ## **Motivation**
 With the exponential growth of the pandemic, massive amount of research is coducting and many visualization techniques are applied to stop the deadly impact of COVID-19.
 ## **Introduction of our project**
