@@ -1,4 +1,4 @@
-# Exponential Growth of Covid Spreading and when it ends.
+# A brief visualization for Exponential Growth of Covid Spreading.
 ## **Motivation**
 You heard about many shocking news about the COVID-19 everyday on TV and social media everyday? You feel panic and depressive because of the non-stop increasing number of cases and deaths, and you have no clue about when everything back to normal for you to continue your big journey? Do not be hopeless, our visualization project will analyze the process and give more details clearly, where we are in the progress of COVID-19, and predict when it will stop.
 
@@ -18,7 +18,7 @@ We choose the multiple line chart because it is simple, easy to compare and pred
 **Interactive**
 - Users can choose which country we wish to compare.
 - The detail of number cases at particular time is revealed according to the vertical position of mouse.
-- Users can click on the name of the country in the legen area to delete the line of the country
+- Users can click on the name of the country in the legend area to delete the line of the country
 
 <img src = "multiple.png"><img>
 
@@ -42,4 +42,18 @@ Unlike the multiple line chart, the single line chart is able to show only one c
 
 ## **VietNam**
 
-<svg height="25" width="211"><line x1="0" y1="25" x2="211" y2="25" style="stroke:rgb(221,160,221);stroke-width:30" /></svg><svg height="25" width="296"><line x1="0" y1="25" x2="296" y2="25" style="stroke:rgb(186,85,211);stroke-width:30" /></svg><svg height="25" width="152"><line x1="0" y1="25" x2="152" y2="25" style="stroke:rgb(148,0,211);stroke-width:30" /></svg><svg height="25" width="147"><line x1="0" y1="25" x2="147" y2="25" style="stroke:rgb(139,0,139);stroke-width:30" /></svg>
+<svg height="25" width="120"><line x1="0" y1="25" x2="100" y2="25" style="stroke:rgb(221,160,221);stroke-width:50" /></svg> : number of cases $\leq 10^3$
+
+<svg height="25" width="120"><line x1="0" y1="25" x2="100" y2="25" style="stroke:rgb(186,85,211);stroke-width:50" /></svg> : number of cases $\leq 10^4$
+
+<svg height="25" width="120"><line x1="0" y1="25" x2="100" y2="25" style="stroke:rgb(148,0,211);stroke-width:50" /></svg> : number of cases $\leq 10^5$
+
+<svg height="25" width="120"><line x1="0" y1="25" x2="100" y2="25" style="stroke:rgb(139,0,139);stroke-width:50" /></svg> : number of cases $\leq 10^6$
+
+<svg height="25" width="120"><line x1="0" y1="25" x2="100" y2="25" style="stroke:rgb(75,0,130);stroke-width:50" /></svg> : number of cases $\leq 10^7$
+
+<img src = "Vietnam time line.png" style width = "800"><img/>
+
+According to the above figure: 
+- At the beginning of the pandemic, it took 211 days to reached more than $10^3$ cases
+- It took 296 days to reaches $10^4$ cases.
