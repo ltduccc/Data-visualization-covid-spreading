@@ -3,7 +3,7 @@
 You heard about many shocking news about the COVID-19 everyday on TV and social media everyday? You feel panic and depressive because of the non-stop increasing number of cases and deaths, and you have no clue about when everything back to normal for you to continue your big journey? Do not be hopeless, our visualization project will analyze the process and give more details clearly, where we are in the progress of COVID-19, and predict when it will stop. Our ultimate goal is to express clearly meaning of the terms "exponential growth" in the COVID-19 context as well as other contagious disease in general.
 
 ## **What is exponential growth?**
-The phrase "exponential growth" is familiar to most people, but the human intuition has a hard time to reconizing what it means sometimes. Unlike the linear growth (each day it increase by a constant), the number in exponential growth is updated by multiply with a small $ratio > 1$. The main reason why the exponential growth is dangerous in terms of pandemic situation is that the number of infections in the beginning is pretty small, this naturally causes humans underestimates it, and it suddenly suprises people with the huge amount of cases and then the overall cases follows exponential trend perfectly consistently. 
+The phrase "exponential growth" is familiar to most people, however the human intuition has a hard time to reconizing what it means sometimes. Unlike the linear growth (each day it increase by a constant), the number in exponential growth is updated by multiply with a small $ratio > 1$. The main reason why the exponential growth is dangerous in terms of pandemic situation is that the number of infections in the beginning is pretty small, this naturally causes humans underestimates it, and it suddenly suprises people with the huge amount of cases and then the overall cases follows exponential trend perfectly consistently. 
 
 Our visualization will dig into visualize this kind of growth to help people recognize the pattern intuitively.
 ## **Introduction of our project**
@@ -49,7 +49,7 @@ Unlike the multiple line chart, the single line chart is able to show only one c
 
 <img src = "single line.gif"><img/>
 
-## **Covid in Vietnam**
+## **Vietnam**
 
 <img src = "Vietnam time line.png" style width = "800"><img/>
 
@@ -59,7 +59,7 @@ Description for the above figure:
 - The number of total cases increase $10$ times to $10^4$ after 296 days.
 - After the half of the timeline, the time it need to rise 10 times is shorter such that after 152 days it reached $10^6$ cases and 147 days to reacched $10^7$.
 
-Some comments for the timeline:
+Some comment for the timeline:
 - At the beginning, with the reasonable strategy of the government, the big impact from the social media and people consciousness, Vietnam is one of the rare countries that handle the situation very well. Many experts began to find out the reason behind the big success of Vietnam.
 - The peace can not maintain until,
 ## **Thailand**
