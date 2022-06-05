@@ -47,6 +47,7 @@ Unlike the multiple line chart, the single line chart is able to show only one c
     - Enter a number in the box
     - Press or click the up arrow beside the box to increase the number of day.
 
+<img src = "single line.gif"><img/>
 
 ## **Vietnam**
 
