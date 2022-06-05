@@ -55,8 +55,11 @@ Unlike the multiple line chart, the single line chart is able to show only one c
 
 Description for the above figure:
 - This is an overall timeline for number of cases in Vietnam
-- At the beginning of the pandemic, it took 211 days to reached more than $10^3$ cases
+- At the beginning of the pandemic, it took 211 days to reached more than $10^3$ cases.
 - The number of total cases increase $10$ times to $10^4$ after 296 days.
 - After the half of the timeline, the time it need to rise 10 times is shorter such that after 152 days it reached $10^6$ cases and 147 days to reacched $10^7$.
 
+Some comment for the timeline:
+- At the beginning, with the reasonable strategy of the government, the big impact from the social media and people consciousness, Vietnam is one of the rare countries that handle the situation very well. Many experts began to find out the reason behind the big success of Vietnam.
+- The peace can not maintain until,
 ## **Thailand**
