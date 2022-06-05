@@ -42,4 +42,4 @@ Unlike the multiple line chart, the single line chart is able to show only one c
 
 ## **VietNam**
 
-<svg height="25" width="211"><line x1="0" y1="25" x2="211" y2="25" style="stroke:rgb(221,160,221);stroke-width:30" /><text x = "85" y = "124">fdas</text></svg><svg height="25" width="296"><line x1="0" y1="25" x2="296" y2="25" style="stroke:rgb(186,85,211);stroke-width:30" /></svg><svg height="25" width="152"><line x1="0" y1="25" x2="152" y2="25" style="stroke:rgb(148,0,211);stroke-width:30" /></svg><svg height="25" width="147"><line x1="0" y1="25" x2="147" y2="25" style="stroke:rgb(139,0,139);stroke-width:30" /></svg>
+<svg height="25" width="211"><line x1="0" y1="25" x2="211" y2="25" style="stroke:rgb(221,160,221);stroke-width:30" /></svg><svg height="25" width="296"><line x1="0" y1="25" x2="296" y2="25" style="stroke:rgb(186,85,211);stroke-width:30" /></svg><svg height="25" width="152"><line x1="0" y1="25" x2="152" y2="25" style="stroke:rgb(148,0,211);stroke-width:30" /></svg><svg height="25" width="147"><line x1="0" y1="25" x2="147" y2="25" style="stroke:rgb(139,0,139);stroke-width:30" /></svg>
