@@ -55,3 +55,5 @@ Description for the above figure:
 - At the beginning of the pandemic, it took 211 days to reached more than $10^3$ cases
 - The number of total cases increase $10$ times to $10^4$ after 296 days.
 - After the half of the timeline, the time it need to rise 10 times is shorter such that after 152 days it reached $10^6$ cases and 147 days to reacched $10^7$.
+
+## **Thailand**
