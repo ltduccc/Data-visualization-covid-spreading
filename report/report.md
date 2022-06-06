@@ -85,3 +85,8 @@ According to the above figure, we can see that all of them follow the exponentia
 - Suprisingly, China is the lowest compare to 5 sample countries, though it is the root of the deadly virus as well as it has the highest population in the world. 
 - The US-a major economic in the world is suffering the most severe effects of the epidemic, with more than 84 millions confirmed cases and consistently maintain the #1 quantity of infections in the world
 
+## When stop?
+To explain it more clearly, we will do some basic math here.
+
+Let's take a look at the formula: $N_i = N_{i-1}*(1+E*p)$
+
