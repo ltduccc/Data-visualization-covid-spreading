@@ -88,5 +88,5 @@ According to the above figure, we can see that all of them follow the exponentia
 ## When stop?
 To explain it more clearly, we will do some basic math here.
 
-Let's take a look at the formula: $N$
+Let's take a look at the formula: $N_i$
 
