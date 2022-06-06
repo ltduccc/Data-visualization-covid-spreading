@@ -84,3 +84,4 @@ Here is the multiple line chart to illustrates the trend for 5 typical countries
 According to the above figure, we can see that all of them follow the exponential trend, however, there are 2 things that should be considered here:
 - Suprisingly, China is the lowest compare to 5 sample countries, though it is the root of the deadly virus as well as it has the highest population in the world. 
 - The US-a major economic in the world is suffering the most severe effects of the epidemic, with more than 84 millions confirmed cases and consistently maintain the #1 quantity of infections in the world
+- The the total cases of small countries like Vietnam Thailand look very small compare with United States and India.
