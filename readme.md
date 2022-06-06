@@ -51,15 +51,33 @@ Unlike the multiple line chart, the single line chart is able to show only one c
 
 ## **Vietnam**
 
-<img src = "Vietnam time line.png" style width = "800"><img/>
+
+We chose Vietnam as an illustrative example to provide an intuitive and easy-to-compare view of the dangers of this pandemic.
+
+<img src = "Vietnam timeline.png" style width = "800"><img/>
 
 Description for the above figure:
 - This is an overall timeline for number of cases in Vietnam
 - At the beginning of the pandemic, it took 211 days to reached more than $10^3$ cases.
 - The number of total cases increase $10$ times to $10^4$ after 296 days.
-- After the half of the timeline, the time it need to rise 10 times is shorter such that after 152 days it reached $10^6$ cases and 147 days to reacched $10^7$.
+- After the half of the timeline, the time it need to rise 10 times is shorter such that after 44 days it reached $10^5$, 109 days to reached $10^6$ cases and 147 days to reacched $10^7$.
 
-Some comment for the timeline:
-- At the beginning, with the reasonable strategy of the government, the big impact from the social media and people consciousness, Vietnam is one of the rare countries that handle the situation very well. Many experts began to find out the reason behind the big success of Vietnam.
-- The peace can not maintain until,
+<img src = "Vietnam example.png" style width = "800"><img/>
+
 ## **Thailand**
+
+<img src = "Thailand timeline.png" style width = "800"><img/>
+
+Timeline for Thailand
+
+## **Overall trend of some typical countries**
+Here is the multiple line chart to illustrates the trend for 5 typical countries:
+- 3 big countries with highest population: India, United States, China
+- 2 small countries near each other: Vietnam, Thailand.
+
+<img src = "multiple example.png"><img/>
+
+According to the above figure, we can see that all of them follow the exponential trend, however, there are 2 things that should be considered here:
+- Suprisingly, China is the lowest compare to 5 sample countries, though it is the root of the deadly virus as well as it has the highest population in the world. 
+- The US-a major economic in the world is suffering the most severe effects of the epidemic, with more than 84 millions confirmed cases and consistently maintain the #1 quantity of infections in the world
+
