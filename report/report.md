@@ -61,6 +61,7 @@ Description for the above figure:
 - At the beginning of the pandemic, it took 211 days to reached more than $10^3$ cases.
 - The number of total cases increase $10$ times to $10^4$ after 296 days.
 - After the half of the timeline, the time it need to rise 10 times is shorter such that after 44 days it reached $10^5$, 109 days to reached $10^6$ cases and 147 days to reacched $10^7$.
+- Until now it reached more than 10 millions cases.
 
 ## **Thailand**
 
@@ -68,9 +69,10 @@ Description for the above figure:
 
 Description for the above figure:
 - This is an overall timeline for number of cases in Vietnam
-- At the beginning of the pandemic, it took 211 days to reached more than $10^3$ cases.
-- The number of total cases increase $10$ times to $10^4$ after 296 days.
-- After the half of the timeline, the time it need to rise 10 times is shorter such that after 44 days it reached $10^5$, 109 days to reached $10^6$ cases and 147 days to reacched $10^7$.
+- At the beginning of the pandemic, it took only 83 days to reached more than $10^3$ cases.
+- The number of total cases increase $10$ times to $10^4$ after 289 days (372 days in total).
+- After the half of the timeline, the time it need to rise 10 times is shorter such that after 127 days (499 days in total) it reached $10^5$, 97 days to reached $10^6$ cases (596 days in total).
+- Until now it reached more than 4 millions cases.
 
 ## **Overall trend of some typical countries**
 Here is the multiple line chart to illustrates the trend for 5 typical countries:
