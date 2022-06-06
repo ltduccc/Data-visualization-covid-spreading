@@ -62,8 +62,6 @@ Description for the above figure:
 - The number of total cases increase $10$ times to $10^4$ after 296 days.
 - After the half of the timeline, the time it need to rise 10 times is shorter such that after 44 days it reached $10^5$, 109 days to reached $10^6$ cases and 147 days to reacched $10^7$.
 
-<img src = "Vietnam example.png" style width = "800"><img/>
-
 ## **Thailand**
 
 <img src = "Thailand timeline.png" style width = "800"><img/>
