@@ -10,7 +10,7 @@ Our visualization will dig into visualize this kind of growth to help people rec
 
 Our project has 2 line charts, one is multiple line chart, and the other is single line chart with updating time in order to visualize and compare the total confirmed cases all over 200 countries in the world (from somewhere in the beginning of 2020 to yesterday).
 
-[Link to the data](https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv) - Our World in Data is a project of the Global Change Data Lab, a non-profit organization based in the United Kingdom
+[Link to the data](https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv) - Our World in Data is a project of the Global Change Data Lab, a non-profit organization based in the United Kingdom.
 
 ### **Multiple line chart:**
 
