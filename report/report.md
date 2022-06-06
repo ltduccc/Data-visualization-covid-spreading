@@ -88,5 +88,5 @@ According to the above figure, we can see that all of them follow the exponentia
 ## When stop?
 To explain it more clearly, we will do some basic math here.
 
-Let's take a look at the formula: $N_i = N_{i-1}*(1+E*p)$
+Let's take a look at the formula: $N$
 
